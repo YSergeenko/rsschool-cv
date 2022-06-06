@@ -23,3 +23,30 @@ _I am 28 years old and my main job does not bring me happiness. Having tried to 
 * VS Code
 * Git, GitHub
 * Adobe Photoshop, Adobe XD
+
+____
+
+### Code example:
+~~~
+function multiply(a, b) {
+  return a * b
+} ​
+~~~
+
+---
+
+### Work experience:
+_Nothing yet…_
+
+---
+
+### Education and courses:
+1. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
+2. CSS, HTML, Git video courses on YouTube, different channels.
+3. JavaScript Manual on [learnjavascript.ru](learnjavascript.ru) (in progress).
+
+---
+
+### Languages:
+- Russian - Native
+- English level - A2

@@ -9,7 +9,6 @@
 * GitHub: [YSergeenko](https://github.com/YSergeenko)
 * Telegram: Yegor Sergeenko
 * Discord: Yegor Sergeenko (@YSergeenko)
-* Instagramm: sergeenko24
 
 ---
 

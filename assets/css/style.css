@@ -188,6 +188,7 @@ ul, ol {
 
 .code {
     margin: 15px;
+    padding-bottom: 55px;
     border-bottom: 2px solid #000;
     
 }
@@ -200,8 +201,9 @@ ul, ol {
 
 .code-text {
     background-color: #ccc;
-    padding-top: 5px;
+    padding-top: 4px;
 }
+
 .languages {
     margin: 20px;
     border-bottom: 2px solid #000;

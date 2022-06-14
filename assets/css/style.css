@@ -1,0 +1,239 @@
+html {
+    scroll-behavior: smooth; 
+}
+
+body {
+    margin: 0;
+    background-color: #fff;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #585858;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+
+p {
+    margin: 0 0 10px;
+}
+
+ul, ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 100%;
+    max-width: 1030px;
+    margin: 0 auto;
+    padding: 0 15px;
+    
+}
+.nav {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.nav-list {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 60px;
+   
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 10px;
+    transition: .6s;
+    cursor: pointer;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color:#000;
+}
+
+.columns {
+    padding: 30px;
+    display: flex;
+    box-shadow: 0px 0px 19px -4px rgba(34, 60, 80, 0.2);
+}
+
+.left-column {
+    width: 50%;
+    
+}
+
+.main-photo {
+    text-align: center;
+}
+
+.right-column {
+    width: 50%;
+}
+
+
+
+.contacts {
+    margin-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #000;
+}
+
+.contacts-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    padding: 5px;
+}
+.contact-item {
+    padding: 2px 5px;
+}
+
+.skills {
+    margin-top: 20px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 20px;
+}
+
+.skills-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    padding: 5px;
+}
+.skills-item {
+    padding: 2px 5px;
+}
+
+
+.courses {
+    margin-top: 20px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 20px;
+}
+
+.courses-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    padding: 5px;
+}
+.courses-item {
+    padding: 2px 5px;
+}
+
+.work {
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.work-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    padding: 5px;
+}
+.work-text {
+    padding: 2px 5px;
+}
+
+.main-name {
+    text-align: center;
+    max-height: 250px;
+    height: 100%;
+    padding-top: 50px;
+}
+
+.main-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+    padding-bottom: 15px;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+
+.main-subtitle {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+.summary {
+    margin: 20px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 42px;
+}
+
+.summary-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    padding: 5px;
+}
+.summary-text {
+    padding: 2px 5px;
+}
+
+.code {
+    margin: 15px;
+    border-bottom: 2px solid #000;
+    
+}
+
+.code-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.code-text {
+    background-color: #ccc;
+    padding-top: 5px;
+}
+.languages {
+    margin: 20px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 50px;
+}
+
+.languages-title {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    padding: 5px;
+}
+.languages-list {
+    padding: 2px 5px;
+}
+
+.footer {
+    padding: 10px 0;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.footer-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-year {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    color: #fff;
+    display: inline-block;
+}

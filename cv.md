@@ -1,6 +1,7 @@
 ## Egor Sergeenko
 ---
 ### My Contact Info:
+* Location: Belarus, Gomel
 * Phone: +375 29 3956105
 * E-mail: [curamvictoria@yahoo.com](curamvictoria@yahoo.com)
 * GitHub: [YSergeenko](https://github.com/YSergeenko)

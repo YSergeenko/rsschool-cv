@@ -60,7 +60,6 @@ ul, ol {
     color: #000;
     font-weight: 400;
     transition: .5s;
-
 }
 
 .nav-link:hover {
@@ -130,6 +129,17 @@ ul, ol {
 .wrapper {
     width: 33.333%;
     padding: 20px; 
+}
+
+.projects-link {
+    text-decoration: none;
+    transition: .5s;
+    color: #000;
+}
+
+.projects-link:hover {
+    color: #017c9b;
+    cursor: pointer;
 }
 
 .code-box code {
